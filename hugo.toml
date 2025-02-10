@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'flck`'s personal twitter'
+title = 'flck personal twitter'
 
 [[module.imports]]
   path = "github.com/halogenica/beautifulhugo"
