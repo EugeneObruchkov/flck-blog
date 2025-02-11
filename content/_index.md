@@ -6,7 +6,7 @@ You can check my [github](https://github.com/EugeneObruchkov), [instagram](http:
 
 ---
 
-Say hello to Melinda
+Please say hi to our lovely cat Melinda
 
-<img align="left" width="307" height="408" 
-src="https://photos.app.goo.gl/gG6cKRCzTmz3RwDt7">
+<img align="left" width="600" height="600" 
+src="https://github.com/EugeneObruchkov/flck-blog/blob/main/static/images/melinda.jpg">
