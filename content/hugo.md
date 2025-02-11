@@ -3,7 +3,7 @@ title = "Hugo"
 menu = "main"
 +++
 
-# Hugo
+# Cat
 
 Website: https://gohugo.io
 
