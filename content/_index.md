@@ -8,5 +8,5 @@ You can check my [github](https://github.com/EugeneObruchkov), [instagram](http:
 
 Please say hi to our lovely cat Melinda
 
-<img align="left" width="600" height="600" 
-src="https://github.com/EugeneObruchkov/flck-blog/blob/main/static/images/melinda.jpg">
+<img align="left" width="500" height="500" 
+src="https://raw.githubusercontent.com/EugeneObruchkov/flck-blog/refs/heads/main/static/images/melinda.jpg">
