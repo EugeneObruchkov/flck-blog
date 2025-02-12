@@ -6,6 +6,3 @@ You can check my [github](https://github.com/EugeneObruchkov), [instagram](http:
 
 ---
 
-Please say hi to our lovely cat Melinda
-
-![melinda](https://raw.githubusercontent.com/EugeneObruchkov/flck-blog/refs/heads/main/static/images/melinda.jpg)
