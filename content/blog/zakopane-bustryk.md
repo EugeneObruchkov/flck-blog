@@ -12,18 +12,25 @@ We did a one week workation from Poland Tatra monutains.
 
 ![image](https://flckstorageaccount.blob.core.windows.net/photos/2024-02-19-zakopane-bustryk/PXL_20240219_140107926.jpg)
 
+Our home for the week was a cozy villa in the charming village of Bustryk:
+[Google Maps Location](https://maps.app.goo.gl/Rf9sM26TDjqgAqPFA)
+
+The view from our window was absolutely breathtaking!
+
+![image](https://flckstorageaccount.blob.core.windows.net/photos/2024-02-19-zakopane-bustryk/PXL_20240217_083449888.jpg)
 
 
-![resize](https://flckstorageaccount.blob.core.windows.net/photos/2024-02-19-zakopane-bustryk/PXL_20240219_140107926.jpg?width=100px)
+We spent a few days snowboarding, exploring different slopes—including one across the border in Slovakia.
+
+![image](https://flckstorageaccount.blob.core.windows.net/photos/2024-02-19-zakopane-bustryk/PXL_20240218_124926639.jpg)
+
+The snow conditions weren’t ideal - I’d rate them around 4/10, but that didn’t stop us from having fun on the slopes.
+
+Here’s Natalia taking on her first steps in snowboarding - struggling a bit, but having a blast!
+
+<video src="https://flckstorageaccount.blob.core.windows.net/photos/2024-02-19-zakopane-bustryk/PXL_20240224_132541322.mp4" controls></video>
 
 
+![image](https://flckstorageaccount.blob.core.windows.net/photos/2024-02-19-zakopane-bustryk/PXL_20240225_094409173.PORTRAIT.jpg)
 
-We have stayed in a small villa located in Bustryk:
-https://maps.app.goo.gl/Rf9sM26TDjqgAqPFA
-
-A view from our window was amazing!
-image
-We did a couple of days of snowboarding, tried several slopes, even one of them was in Slovakia.
-
-Here Natalia is struggling with the first steps in snowboarding hah:
-
+Thanks for reading my first blog post!
