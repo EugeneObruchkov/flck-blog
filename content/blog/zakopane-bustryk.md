@@ -12,7 +12,9 @@ We did a one week workation from Poland Tatra monutains.
 
 ![image](https://flckstorageaccount.blob.core.windows.net/photos/2024-02-19-zakopane-bustryk/PXL_20240219_140107926.jpg)
 
-<img src="https://flckstorageaccount.blob.core.windows.net/photos/2024-02-19-zakopane-bustryk/PXL_20240219_140107926.jpg" width="200">
+
+
+<img src="https://flckstorageaccount.blob.core.windows.net/photos/2024-02-19-zakopane-bustryk/PXL_20240219_140107926.jpg" width="50%"/>
 
 We have stayed in a small villa located in Bustryk:
 https://maps.app.goo.gl/Rf9sM26TDjqgAqPFA
