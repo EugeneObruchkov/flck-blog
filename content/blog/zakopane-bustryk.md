@@ -20,16 +20,13 @@ The view from our window was absolutely breathtaking!
 ![image](https://flckstorageaccount.blob.core.windows.net/photos/2024-02-19-zakopane-bustryk/PXL_20240217_083449888.jpg)
 
 
-We spent a few days snowboarding, exploring different slopes—including one across the border in Slovakia.
+We spent a few days snowboarding, exploring different slopes - including one across the border in Slovakia.
 
 ![image](https://flckstorageaccount.blob.core.windows.net/photos/2024-02-19-zakopane-bustryk/PXL_20240218_124926639.jpg)
 
 The snow conditions weren’t ideal - I’d rate them around 4/10, but that didn’t stop us from having fun on the slopes.
 
-Here’s Natalia taking on her first steps in snowboarding - struggling a bit, but having a blast!
-
-<video src="https://flckstorageaccount.blob.core.windows.net/photos/2024-02-19-zakopane-bustryk/PXL_20240224_132541322.mp4" controls></video>
-
+![image](https://flckstorageaccount.blob.core.windows.net/photos/2024-02-19-zakopane-bustryk/PXL_20240224_142433114.jpg)
 
 ![image](https://flckstorageaccount.blob.core.windows.net/photos/2024-02-19-zakopane-bustryk/PXL_20240225_094409173.PORTRAIT.jpg)
 
