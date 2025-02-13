@@ -8,7 +8,7 @@ tags = [
 ]
 +++
 
-We did a one week workation from Poland Tatra monutains.
+We spent a ten days on a workation in the stunning Tatra Mountains of Poland.
 
 ![image](https://flckstorageaccount.blob.core.windows.net/photos/2024-02-19-zakopane-bustryk/PXL_20240219_140107926.jpg)
 
