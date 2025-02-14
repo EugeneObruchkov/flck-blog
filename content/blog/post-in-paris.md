@@ -12,9 +12,12 @@ We spent three incredible days at a post-rock festival in Paris. Here are a few 
 
 {{< youtube qp-w4rOs-NI >}}
 
+
 {{< youtube sE23J4NveYQ >}}
 
+
 {{< youtube 8F6hxb1Z3Xw >}}
+
 
 Unfortunately, we don’t have any photos of the city itself (not our favourite city tbh), but here’re a photos of the tiniest elevator you’ve ever seen!
 
