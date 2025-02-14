@@ -8,7 +8,7 @@ tags = [
 ]
 +++
 
-We spent three incredible days at a post-rock festival in Paris - [Post in Paris 2024](https://communalesaintouen.com/evenements/post-in-paris/).
+We spent two incredible days at a post-rock festival in Paris - [Post in Paris 2024](https://communalesaintouen.com/evenements/post-in-paris/).
 Here are a few of the most unforgettable moments captured on video from the concerts.
 
 {{< youtube qp-w4rOs-NI >}}
