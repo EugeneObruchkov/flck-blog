@@ -8,4 +8,9 @@ tags = [
 ]
 +++
 
-<iframe src="https://flckstorageaccount.blob.core.windows.net/photos/2024-05-18-post-in-paris/PXL_20240518_153419834.mp4"></iframe>
+{{< youtube qp-w4rOs-NI >}}
+
+
+https://youtube.com/shorts/qp-w4rOs-NI
+
+https://youtube.com/shorts/qp-w4rOs-NI?si=7JON5V3pjlW96TI1
