@@ -13,10 +13,6 @@ title = "about me"
 - Drummer/Snowboarder/Kitesurfer
 - Based in Warsaw, Poland
 
-### NEED HELP?
-
-Feel free to contact me.
-
 ### LINKS
 
 - [GitHub](https://github.com/EugeneObruchkov)
@@ -24,4 +20,6 @@ Feel free to contact me.
 - [Instagram](https://instagram.com/eugene_obruchkov)
 - [YouTube](https://www.youtube.com/@evgeni-obruchkov) 
 
+### NEED HELP?
 
+Feel free to contact me.
