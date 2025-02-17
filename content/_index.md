@@ -5,7 +5,7 @@
 title = "about me"
 +++
 
-### ABOUT ME
+#### ABOUT ME
 
 - Evgeni Obruchkov
 - Nerd
@@ -13,13 +13,13 @@ title = "about me"
 - Drummer/Snowboarder/Kitesurfer
 - Based in Warsaw, Poland
 
-### LINKS
+#### LINKS
 
 - [GitHub](https://github.com/EugeneObruchkov)
 - [LinkedIn](https://www.linkedin.com/in/eugene-obruchkov)
 - [Instagram](https://instagram.com/eugene_obruchkov)
 - [YouTube](https://www.youtube.com/@evgeni-obruchkov) 
 
-### NEED HELP?
+#### NEED HELP?
 
 Feel free to contact me.

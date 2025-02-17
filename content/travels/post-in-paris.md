@@ -3,8 +3,8 @@ title = "Post in Paris music festival"
 date = "2024-05-18"
 description = ""
 tags = [
-    "travel",
-    "Paris",
+    "paris",
+    "france",
 ]
 +++
 

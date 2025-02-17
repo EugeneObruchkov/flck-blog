@@ -3,7 +3,6 @@ title = "Brussels/Brugges"
 date = "2024-03-15"
 description = ""
 tags = [
-    "travel",
     "belgium",
 ]
 +++

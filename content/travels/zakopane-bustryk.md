@@ -3,8 +3,8 @@ title = "Zakopane/Bustryk"
 date = "2024-02-19"
 description = ""
 tags = [
-    "travel",
     "snowboarding",
+    "poland",
 ]
 +++
 
