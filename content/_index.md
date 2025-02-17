@@ -5,20 +5,23 @@
 title = "about me"
 +++
 
-## whoami
+### ABOUT ME
 
-Hello there. My name is Evgeni Obruchkov. A guy with glasses and 10+ years in IT world. 
-I play drums, love snowboarding, kitesurfing and CrossFit. And sometimes I code.
+- Evgeni Obruchkov
+- Nerd
+- SysAdmin/SRE/DevOps engineer with 11 years of experience
+- Drummer/Snowboarder/Kitesurfer
+- Based in Warsaw, Poland
 
-You can check my:
-* [github](https://github.com/EugeneObruchkov)
-* [linkedIn](https://www.linkedin.com/in/eugene-obruchkov)
-* [instagram](https://instagram.com/eugene_obruchkov)
-* [youtube](https://www.youtube.com/@evgeni-obruchkov) 
+### NEED HELP?
 
-to understand more about me.
+Feel free to contact me.
 
----
+### LINKS
 
-Thanks!
+- [GitHub](https://github.com/EugeneObruchkov)
+- [LinkedIn](https://www.linkedin.com/in/eugene-obruchkov)
+- [Instagram](https://instagram.com/eugene_obruchkov)
+- [YouTube](https://www.youtube.com/@evgeni-obruchkov) 
+
 
