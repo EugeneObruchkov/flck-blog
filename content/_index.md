@@ -8,10 +8,9 @@ title = "about me"
 #### ABOUT ME
 
 - Evgeni Obruchkov
-- Nerd
 - SysAdmin/SRE/DevOps engineer with 11 years of experience
 - Drummer/Snowboarder/Kitesurfer
-- Based in Warsaw, Poland
+- Living in Warsaw, Poland
 
 #### LINKS
 
